@@ -51,7 +51,7 @@ This is because the variable has already been declared.
 ## String Methods and Properties
 
 ```js
-let name = "mike";
+let name = "Hazim";
 let capitalName = name.toUpperCase(); // ?
 
 name.length // ?
