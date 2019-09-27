@@ -60,8 +60,8 @@ name.length // ?
 ## String Concatenation
 ```js
 
-let firstName = "Mike";
-let lastName = "Finneran";
+let firstName = "Hazim";
+let lastName = "Alblowi";
 
 let fullName = firstName + " " + lastName;
 ```
